@@ -1,0 +1,95 @@
+body{
+    background-color: #eeeeee;
+}
+#title{
+    font-family: 'Playfair Display', serif;
+}
+#firstDiv{
+    height: 770px;
+   width: 1410px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-image: url("IMAGES/heading.png");
+    background-size: cover;
+}
+#linkOne{
+    width: 200px;
+    height: 200px;
+    background-image: url("IMAGES/FilmStrip.png");
+
+}
+#linkTwo{
+    width: 200px;
+    height: 200px;
+    background-image: url("IMAGES/FilmStrip.png");
+    margin-top: -20px;
+}
+#linkThree{
+    width: 200px;
+    height: 215px;
+    background-image: url("IMAGES/FilmStrip.png");
+    margin-top: -20px;
+}
+a img:hover{
+    height: 210px; 
+    width: 150px;
+}
+#tvshowDiv{
+    border-bottom: 3px solid black;
+}
+.category{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold','Times New Roman', Times, serif;
+}
+#friendsclip{
+    float: left;
+    margin-right: 30px;
+}
+p{
+    width: 950px;
+    font-family: 'Trebuchet MS', Verdana,  Geneva, Tahoma, sans-serif;
+    color: #0a0a0a;
+}
+p a{
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: #0a0a0a;
+
+}
+p a:hover{
+    font-size: 22px;
+    background-color:#cfc9c9;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#friendsDiv{
+    width: 1000px;
+    height: 350px;
+    border: 3px solid black;
+}
+.poster{
+    height: 370px;
+    width: 400px;
+    padding-left: 1010px;
+    padding-right: 0px;
+    margin-top: -420px;
+}
+#replyDiv{
+    width: 1000px;
+    height: 350px;
+    border: 3px solid black;
+}
+#replyclip{
+    float: left;
+    margin-right: 30px;
+}
+#thingsDiv{
+    width: 1000px;
+    height: 350px;
+    border: 3px solid black;
+}
+#coachDiv{
+    width: 1000px;
+    height: 350px;
+    border: 3px solid black;
+}
